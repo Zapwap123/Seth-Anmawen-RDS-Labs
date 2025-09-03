@@ -1,0 +1,8 @@
+
+
+Lab 2 Assessment Questions:
+
+1. How long did the Multi-AZ enablement process take?
+2. What was the actual failover duration during testing?
+3. How does Multi-AZ affect your connection string?
+4. What is the cost impact of enabling Multi-AZ?

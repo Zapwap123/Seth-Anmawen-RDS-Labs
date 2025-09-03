@@ -1,0 +1,5 @@
+1. After modifying the RDS MySQL DB, it took 8 minutes for the status to become "Available".
+2. Multi-AZ now shows "YES".
+3. I still have only one endpoint after modification.
+4. The onnection string remained the same.
+
