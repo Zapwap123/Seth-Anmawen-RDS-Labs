@@ -1,0 +1,2 @@
+1. Manual Snapshop of the main MySQL instance took 2 minutes to become available.
+2. It took 17 minutes for the Point in time restore of the main MySQL DB Instance to be available.

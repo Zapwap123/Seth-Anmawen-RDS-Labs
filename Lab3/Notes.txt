@@ -1,0 +1,4 @@
+1. The MySQL "Create read replica" took 9 minutes to become available.
+2. Cross-Region Replication took 23 minutes to become available.
+3. There is a 0.01 second replication lag between the Local Read Replica and Main DB instance.
+4. It took less than 2 minutes for the read replica to be promoted to a stand alone Instance.

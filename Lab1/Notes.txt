@@ -1,0 +1,3 @@
+1. Successfully created two RDS instances: one running MySQL and one running PostgreSQL.
+2. Both were provisioned under the Free Tier instance class (db.t3.micro).
+3. MySQL Instance took 8 minutes and Postgres took 9 minutes to become available.
